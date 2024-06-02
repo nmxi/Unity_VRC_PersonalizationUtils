@@ -89,6 +89,12 @@ namespace mikinel.vrc.PersonalizationUtils
 
         public void OnUpdatedPlayerList()
         {
+            if(_personalizationPlayerList.playerList == null || _personalizationPlayerList.playerList.Length == 0)
+            {
+                Debug.LogError($"{_debugLogPrefix}PlayerList is empty.");
+                return;
+            }
+            
             var currentPlayers = new VRCPlayerApi[VRCPlayerApi.GetPlayerCount()];
             VRCPlayerApi.GetPlayers(currentPlayers);
             var currentPlayerDisplayNames = new string[currentPlayers.Length];

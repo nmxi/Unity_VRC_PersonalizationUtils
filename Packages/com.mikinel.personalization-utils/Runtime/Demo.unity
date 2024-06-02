@@ -393,7 +393,7 @@ MonoBehaviour:
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 757648071}
   _personalizationPlayerList: {fileID: 326713763}
-  _mode: 1
+  _mode: 0
   _enableObjectArray:
   - {fileID: 1353219011}
   _disableObjectArray:
@@ -928,8 +928,9 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 2100000, guid: 1f9cd5f77a06c444b80dbd0e962f95d4, type: 2}
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b5d7a4fa51cb2948bdb471536946dba, type: 2}
+  - {fileID: 2100000, guid: 5b6779311e8425e4a9063350a843d4e3, type: 2}
+  - {fileID: 2100000, guid: b1a553f53f62740448403ea9193406e4, type: 2}
   LightMapsNear: []
   LightMapsFar: []
   LightMode: 0
