@@ -1,0 +1,19 @@
+{
+  "name": "com.mikinel.personalization-utils",
+  "displayName": "Personalization Utils",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Personalization Utils",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.6.1"
+  },
+  "author": {
+    "name": "mikinel",
+    "email": "mikki.unity@gmail.com",
+    "url": "https://twitter.com/kemmimilk"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "F:\\GitHub\\Unity_VRC_AutoImageSetter\\Packages\\com.mikinel.personalization-utils"
+}
