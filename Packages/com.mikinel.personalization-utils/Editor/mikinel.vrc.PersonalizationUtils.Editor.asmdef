@@ -1,6 +1,9 @@
 {
-    "name": "VRChatPackageTemplate.Editor",
-    "references": [],
+    "name": "mikinel.vrc.PersonalizationUtils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "com.mikinel.personalization-utils"
+    ],
     "includePlatforms": [
         "Editor"
     ],
