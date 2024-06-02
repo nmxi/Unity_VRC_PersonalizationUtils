@@ -767,6 +767,26 @@ PrefabInstance:
       propertyPath: _personalizationPlayerList
       value: 
       objectReference: {fileID: 326713763}
+    - target: {fileID: 7347237422315627085, guid: 622e056646dd6714e9d8e01f6dca4fba,
+        type: 3}
+      propertyPath: _enableObjectArray.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7347237422315627085, guid: 622e056646dd6714e9d8e01f6dca4fba,
+        type: 3}
+      propertyPath: _disableObjectArray.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7347237422315627085, guid: 622e056646dd6714e9d8e01f6dca4fba,
+        type: 3}
+      propertyPath: _enableObjectArray.Array.data[0]
+      value: 
+      objectReference: {fileID: 1353219011}
+    - target: {fileID: 7347237422315627085, guid: 622e056646dd6714e9d8e01f6dca4fba,
+        type: 3}
+      propertyPath: _disableObjectArray.Array.data[0]
+      value: 
+      objectReference: {fileID: 1365355642}
     - target: {fileID: 7877427893551938416, guid: 622e056646dd6714e9d8e01f6dca4fba,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1102,6 +1122,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PersonalizationPlayerList
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
+        type: 3}
+      propertyPath: playerList.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
+        type: 3}
+      propertyPath: playerList.Array.data[0]
+      value: mikinel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
+        type: 3}
+      propertyPath: playerList.Array.data[1]
+      value: other_player_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
+        type: 3}
+      propertyPath: playerList.Array.data[2]
+      value: other_player_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
+        type: 3}
+      propertyPath: playerList.Array.data[3]
+      value: other_player_3
       objectReference: {fileID: 0}
     - target: {fileID: 9102935158623719935, guid: b6ff3a3ad11465c4a9882804434f320b,
         type: 3}
