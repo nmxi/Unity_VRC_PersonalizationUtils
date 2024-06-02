@@ -12,6 +12,7 @@ Enable状態のときに有効化されるGameObjectとDisable状態のときに
 VCCよりパッケージのインポート
 
 ## 使用方法
+![2024-06-02_readme](https://github.com/nmxi/Unity_VRC_PersonalizationUtils/assets/15684519/8496fc93-265a-40fc-9d3c-d4cdf6081d97)
 
 1. Packages/com.mikinel.personalization-utils/Runtime/Prefabs/PersonalizationPlayerList.prefab をシーンに配置
 2. Packages/com.mikinel.personalization-utils/Runtime/Prefabs/PersonalizationEvents.prefab をシーンに配置
